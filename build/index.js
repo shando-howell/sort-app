@@ -1,1 +1,2 @@
-console.log('Sorting App');
+"use strict";
+console.log('Sorting App V3');
